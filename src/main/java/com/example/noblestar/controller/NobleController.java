@@ -218,8 +218,6 @@ public class NobleController {
 	{
 		ModelAndView mv=new ModelAndView("loginpage");
 		repo2.save(pd);
-		/*mv.addObject("data", pd);
-		mv.setViewName("profile");*/
 		return mv;
 	}
 	

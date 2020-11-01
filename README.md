@@ -3,6 +3,6 @@ It is the website for Diagnostic Center where anyone can book their appointments
 reports. 
 This project uses the following technologies: 
 
-1. Backend - Spring Boot, JPA.
+1. Backend - Spring Boot, JPA, Spring Security.
 2. Frontend - JSP.
 3. Database - MySQL.
